@@ -20,7 +20,16 @@
 
 ### Hi there 👋
 
-<!--
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+
+---
+
+### :man_technologist: About Me :
+
+I am graduated in Artificial Intelligence <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from BU ALI SINA University located in Western part of Iran in Hamedan.
+
 **amirzand2002/amirzand2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -33,4 +42,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
