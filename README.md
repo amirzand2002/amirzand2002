@@ -62,6 +62,7 @@ I am graduated in Artificial Intelligence <img src="https://media.giphy.com/medi
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=amirzand2002&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amirzand2002&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amirzand2002&theme=<THEME_NAME>" />
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amirzand2002)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
