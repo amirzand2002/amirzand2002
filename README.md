@@ -59,7 +59,7 @@ I am graduated in Artificial Intelligence <img src="https://media.giphy.com/medi
 
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=amirzand2002&theme=radical&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=amirzand2002&theme=radical&background=000022)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amirzand2002&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
